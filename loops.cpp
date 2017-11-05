@@ -21,5 +21,10 @@ int main()
 
 	}
 	cin.get();
-	
+
+	int boolean
+	cout<<"Choose a number: ";
+	cin>> boolean
+	cin.ignore();
+	if (number )
 }
